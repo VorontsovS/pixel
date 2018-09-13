@@ -1,0 +1,47 @@
+.back {
+	width: 980px;
+	height: 800px;
+	background: url(img/back.jpg);
+	margin: auto auto;
+	/* border: 1px solid black; */
+}
+
+.t1 {
+	text-align: left;
+	height: 80px;
+    font-family: Arial /* HouschkaPro Bold*/;
+	font-weight: bold;
+	font-size: 69px;
+	color: rgb(254,254,254);
+	text-shadow: 2px 3.464px 0px rgba(0,0,0,0.17);
+	padding: 97px 0px 5px 245px; 
+}	
+
+.t2 {
+	text-align: center;
+	height: 30px;
+    font-family: Arial /* HouschkaPro Medium*/;
+	font-size: 14px;
+    color: rgb(38,107,151);
+	padding: 0px 0px 0px 0px; 
+}
+
+.form {
+	text-align: left;
+	height: 50px;
+	padding: 6px 0px 0px 319px;
+	
+}
+
+.forma {
+	height: 37px;
+	width: 240px;	
+	padding: 0px 0px 0px 10px;
+}
+
+.button {
+	height: 37px;
+	width: 100px;	
+	padding: 0px 0px 0px 0px;
+	background: yellow;
+}
