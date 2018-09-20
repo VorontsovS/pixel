@@ -40,23 +40,23 @@ body {
 .text1 {
 	text-align: center;
 	height: 10vh;
-    font-family: /*Arial*/ HouschkaPro Bold;
+	font-family: /*Arial*/ HouschkaPro Bold;
 	font-weight: bold;
-	font-size: 8.625vh;
+	font-size: 8.625vmin;
 	color: rgb(254,254,254);
 	text-shadow: 0.25vh 0.35vw 0px rgba(0,0,0,0.17);
 	padding: 12.1vh 0vh 0vh 0vh;
-	margin: 0px -40vh 0px -40vh;
+	/*margin: 0px -40vh 0px -40vh;*/
 }	
 
 .text2 {
 	text-align: center;
 	height: 3.75vh;
-    font-family: /*Arial*/ HouschkaPro Medium;
-	font-size: 1.75vh;
-    color: rgb(38,107,151);
+	font-family: /*Arial*/ HouschkaPro Medium;
+	font-size: 1.75vmin;
+	color: rgb(38,107,151);
 	padding: 0px 0px 0px 0px; 
-	margin: 0px -40vh 0px -40vh;
+	/*margin: 0px -40vh 0px -40vh;*/
 }
 
 .form {
