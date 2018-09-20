@@ -1,0 +1,6 @@
+echo "# Lesson5-Coming-Soong-with-VW" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/VorontsovS/Lesson5-Coming-Soong-with-VW.git
+git push -u origin master
