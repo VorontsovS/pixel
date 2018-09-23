@@ -124,11 +124,6 @@
 	top: -1vh;
 }
 
-.cloud-two-go > img {
-	margin-bottom: 5vh;
-	border: 1px solid black;
-}
-
 @keyframes cloud-one {
  0%   { 
 	transform: translateX(125vw); 		
@@ -147,3 +142,37 @@
     font-family: HouschkaPro Medium;
     src: url('fonts/HouschkaMedium.ttf');
 }
+
+.time {
+	position: relative;
+	width: 50vh;
+	height: 20vh;
+	margin-left: calc(50% - 19vh);
+	top: 3.8vh;
+}
+
+.radius {
+	display: inline-block;
+	margin-right: 4.7vh;
+	background-color: rgb(183, 210, 240);
+	width: 8vh;
+	height: 8vh;
+	border-radius: 4vh;
+	color: rgb(71, 102, 102);
+	line-height: 8vh;
+	text-align: center; 
+	font-size: 3vh;
+}
+.timetext {
+	display: inline-block;
+	margin-right: 4.7vh;
+	width: 8vh;
+	height: 8vh;
+	color: rgb(185, 214, 239);
+	line-height: 6vh;
+	text-align: center; 
+	font-size: 2.5vh;
+	font-family: Arial;
+	font-weight: bold;
+}
+
